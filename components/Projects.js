@@ -13,7 +13,7 @@ const projects = [
     title: "Hybrid Book Recommender System",
     desc: "Engineered a hybrid recommendation pipeline combining collaborative filtering and content-based models, delivering top-10 personalized recommendations with optimized query performance. Containerized the full-stack application using Docker and pushed images to AWS ECR for consistent, reproducible deployments. Deployed on AWS EC2 with REST APIs, database integration, networking, and environment configuration simulating a production-ready cloud setup.",
     tech: ["Python", "Docker", "AWS ECR", "AWS EC2", "REST API"],
-    link: "https://github.com",
+    link: "https://github.com/Shibhya1/Hybrid_book_Recommender",
   },
 ];
 

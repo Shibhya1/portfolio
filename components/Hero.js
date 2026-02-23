@@ -147,7 +147,7 @@ export default function Hero() {
         </div>
 
         <h1
-          className="font-cinzel font-black leading-none tracking-widest uppercase"
+          className="font-cinzel font-normal leading-none tracking-widest uppercase"
           style={{
             fontSize: "clamp(3.5rem, 9vw, 8rem)",
             letterSpacing: "0.12em",
